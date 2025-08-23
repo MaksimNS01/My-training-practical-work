@@ -30,6 +30,9 @@ Below is a comprehensive list of practical works included in this repository:
 - **Classification of banking transactions for the dataset CFPB**  
   Machine learning model for classifying customer complaints from the Consumer Financial Protection Bureau (CFPB) dataset.
 
+- **Comparison of K-Means and Deep Embedded Clustering (DEC)**  
+  Comparative analysis of traditional K-Means clustering and Deep Embedded Clustering (DEC) for unsupervised learning tasks.
+
 - **Dog segmentation by breed**  
   Segmentation and classification system to identify dog breeds and their body parts.
 
