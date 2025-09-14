@@ -63,6 +63,9 @@ Below is a comprehensive list of practical works included in this repository:
 - **RAG with NeMo Guardrails**  
   Retrieval-Augmented Generation (RAG) system enhanced with safety controls using NeMo Guardrails.
 
+- **Real-time speech translation system** 
+  The developed system is a **comprehensive solution** for speech translation tasks while preserving voice identity. The system architecture demonstrates an **optimal balance** between processing quality, performance, and ease of use.
+
 - **Reinforcement learning Astrobot and LunarLander**  
   RL implementations for the Astrobot and LunarLander environments.
 
