@@ -33,7 +33,7 @@ Below is a comprehensive list of practical works included in this repository:
 - **Comparison of K-Means and Deep Embedded Clustering (DEC)**  
   Comparative analysis of traditional K-Means clustering and Deep Embedded Clustering (DEC) for unsupervised learning tasks.
 
-- **Creating a system for automatic speech language detection**
+- **Creating a system for automatic speech language detection**  
   The system successfully copes with the tasks of automatic speech analysis, providing accurate language identification, objective quality assessment, and effective normalization of audio signals. The results demonstrate the practical applicability of the developed solution for speech data processing and analysis tasks.
 
 - **Dog segmentation by breed**  
